@@ -1,5 +1,9 @@
 Embakai Tech Solutions is a 100% PNG-owned digital agency in Port Moresby, offering professional website design in Port Moresby, mobile app development, branding, SEO, and digital solutions for businesses.
 
+#1 Website Designer in Port Moresby | FREE .com Domain
+
+Get a FAST, mobile-friendly website with FREE .com domain & hosting in Port Moresby. Get a quote today!
+
 ## WhatsApp Order https://www.embakaitech.com/whatsapp
 
 
