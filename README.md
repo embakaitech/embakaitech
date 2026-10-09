@@ -1,143 +1,175 @@
-<!-- Embakai Tech Solutions · GitHub profile README -->
-<!-- Theme: charcoal #0B0F14, gold #FFC107, off-white #F4F6F8 -->
-
 <div align="center">
 
-<img src="./assets/readme/hero.svg" alt="Embakai Tech Solutions — digital engineering from Papua New Guinea; gold and white lettering on a charcoal background" width="100%" />
+<!-- GitHub profile README for github.com/embakaitech -->
+<img width="100%" alt="Embakai Tech Solutions banner" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:17202C,100:FFC107&text=EMBAKAI%20TECH%20SOLUTIONS&fontColor=FFC107&fontSize=38&fontAlignY=37&desc=Beyond%20Boundaries%20%E2%80%A2%20Building%20Digital%20Solutions%20from%20Papua%20New%20Guinea&descSize=15&descAlignY=59&descColor=FFFFFF&animation=fadeIn" />
 
-<a href="https://www.embakaitech.com"><img alt="Visit Website" src="https://img.shields.io/badge/EXPLORE_OUR_WEBSITE-0B0F14?style=for-the-badge&logo=googlechrome&logoColor=FFC107&labelColor=FFC107&color=0B0F14" /></a>
-<a href="https://www.embakaitech.com/whatsapp"><img alt="Get in Touch" src="https://img.shields.io/badge/GET_IN_TOUCH-0B0F14?style=for-the-badge&logo=whatsapp&logoColor=FFC107&labelColor=FFC107&color=0B0F14" /></a>
-<a href="https://github.com/embakaitech?tab=repositories"><img alt="See our GitHub repositories" src="https://img.shields.io/badge/VISIT_REPOSITORIES-0B0F14?style=for-the-badge&logo=github&logoColor=FFC107&labelColor=FFC107&color=0B0F14" /></a>
+<a href="https://www.embakaitech.com"><img alt="Website" src="https://img.shields.io/badge/Website-Visit%20Us-FFC107?style=for-the-badge&logo=googlechrome&logoColor=0D1117&labelColor=0D1117" /></a>
+<a href="https://www.embakaitech.com/whatsapp"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Start%20a%20Conversation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://github.com/embakaitech?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/GitHub-Explore%20Projects-FFC107?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117" /></a>
 
 <br />
 
-<img alt="Based in Port Moresby, PNG" src="https://img.shields.io/badge/PORT_MORESBY-PAPUA_NEW_GUINEA-0B0F14?style=flat-square&color=0B0F14&labelColor=FFC107" />
-<img alt="100 percent PNG owned" src="https://img.shields.io/badge/OWNERSHIP-100%25_PNG_OWNED-0B0F14?style=flat-square&color=0B0F14&labelColor=FFC107" />
-<a href="https://github.com/embakaitech"><img alt="GitHub followers" src="https://img.shields.io/github/followers/embakaitech?style=flat-square&logo=github&logoColor=FFC107&label=FOLLOWERS&color=0B0F14&labelColor=FFC107" /></a>
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=embakaitech&label=PROFILE+VIEWS&color=FFC107&style=flat-square" />
+<a href="https://github.com/embakaitech"><img alt="GitHub followers" src="https://img.shields.io/github/followers/embakaitech?style=flat-square&logo=github&label=Followers&color=FFC107&labelColor=0D1117" /></a>
+<img alt="Based in Port Moresby, PNG" src="https://img.shields.io/badge/Location-Port%20Moresby%2C%20PNG-FFC107?style=flat-square&labelColor=0D1117" />
+<img alt="PNG owned" src="https://img.shields.io/badge/100%25-PNG%20Owned-FFC107?style=flat-square&labelColor=0D1117" />
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=embakaitech&label=Profile%20views&color=FFC107&style=flat-square" />
 
 <br /><br />
 
-<img alt="Animated list of core technology services" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2700&pause=950&color=FFC107&background=0B0F14&center=true&vCenter=true&width=830&height=55&lines=Custom+Websites+%26+Web+Applications;E-commerce+%26+Payment+Integrations;Laravel+%7C+Django+%7C+React;Hosting+%7C+Security+%7C+DevOps;AI+%7C+Automation+%7C+Mobile+Apps" />
+<img alt="Animated introduction" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3200&pause=1100&color=FFC107&center=true&vCenter=true&width=800&height=55&lines=Custom+Websites+%26+Web+Applications;E-commerce+%26+Business+Systems;Mobile+Apps+%26+Automation;Hosting%2C+Security+%26+DevOps;Built+in+Papua+New+Guinea+%F0%9F%87%B5%F0%9F%87%AC" />
+
+**100% PNG-owned digital solutions business · Based in Port Moresby, Papua New Guinea**
+
+[**Explore Services**](https://www.embakaitech.com) · [**View Repositories**](https://github.com/embakaitech?tab=repositories) · [**Contact Us**](https://www.embakaitech.com/whatsapp)
 
 </div>
 
 ---
 
-## ABOUT US
+## 👋 About Embakai Tech Solutions
 
-<img src="./assets/readme/about.svg" alt="PNG owned and purpose built; Embakai Tech Solutions creates websites, e-commerce platforms, business software, and digital infrastructure" width="100%" />
-
-Our work prioritizes **maintainable architecture, secure deployments, practical business requirements and dependable support**. We build for organisations in Papua New Guinea and beyond.
+We design, develop and support digital experiences for businesses and organizations in Papua New Guinea and beyond. From high-performance websites and e-commerce stores to tailored business systems, mobile applications, and infrastructure, our focus is on **practical software, dependable delivery and long-term maintainability**.
 
 > **Beyond Boundaries: Transforming Ideas into Seamless Web Experiences.**
 
-## WHAT WE DO
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="./assets/readme/web-apps.svg" alt="Web and applications: websites, e-commerce, payment integrations, portals, mobile apps, and progressive web apps" width="100%" />
-<img src="./assets/readme/cloud-security.svg" alt="Cloud and security: hosting, business email, DNS, SSL, Cloudflare, monitoring, and backups" width="100%" />
-<img src="./assets/readme/systems-automation.svg" alt="Systems and automation: business workflows, dashboards, APIs, payment integrations, and AI-assisted tools" width="100%" />
+### 🧩 What we build
+- Custom websites and web applications
+- E-commerce and payment integrations
+- Business portals and management systems
+- Mobile apps and progressive web apps
 
-<details>
-<summary><b>Explore website development &amp; e-commerce</b></summary>
+</td>
+<td width="50%" valign="top">
 
-We create responsive websites, customer portals, online stores and checkout experiences. Typical requirements include **mobile usability, performance, accessibility, content management, secure payments and SEO**.
+### 🛡️ What we support
+- Business email and web hosting
+- DNS, Cloudflare and website security
+- Deployment, monitoring and backups
+- API integration and workflow automation
 
-[View services](https://www.embakaitech.com)
+</td>
+</tr>
+</table>
 
-</details>
-
-<details>
-<summary><b>Explore software systems &amp; API integrations</b></summary>
-
-Custom dashboards, authentication, workflows, business portals and API integrations tailored to operational needs.
-
-[Browse repositories](https://github.com/embakaitech?tab=repositories)
-
-</details>
-
-<details>
-<summary><b>Explore cloud infrastructure &amp; security</b></summary>
-
-Website hosting, business email, DNS management, Cloudflare security controls, TLS certificates, infrastructure operations, monitoring and backup strategies. We do not publish private customer code, production secrets or infrastructure credentials.
-
-</details>
+## 🧭 Explore this profile
 
 <details>
-<summary><b>Explore AI, automation &amp; mobile apps</b></summary>
-
-API-driven workflows, practical AI automation, progressive web apps and cross-platform mobile development.
-
-</details>
-
----
-
-## TECHNOLOGY STACK
-
-<img src="./assets/readme/stack.svg" alt="Frontend: React, Vue, JavaScript, Tailwind. Backend: Laravel, Django, Node.js, PHP, Python, MySQL. Infrastructure: Cloudflare, Linux, Docker, Nginx, Git." width="100%" />
-
-<details>
-<summary><b>Show technology badges</b></summary>
-
-**Frontend**
-
-![HTML](https://img.shields.io/badge/HTML5-0B0F14?style=for-the-badge&logo=html5&logoColor=FFC107) ![CSS](https://img.shields.io/badge/CSS3-0B0F14?style=for-the-badge&logo=css3&logoColor=FFC107) ![JavaScript](https://img.shields.io/badge/JavaScript-0B0F14?style=for-the-badge&logo=javascript&logoColor=FFC107) ![React](https://img.shields.io/badge/React-0B0F14?style=for-the-badge&logo=react&logoColor=FFC107) ![Vue.js](https://img.shields.io/badge/Vue.js-0B0F14?style=for-the-badge&logo=vuedotjs&logoColor=FFC107) ![Tailwind](https://img.shields.io/badge/Tailwind-0B0F14?style=for-the-badge&logo=tailwindcss&logoColor=FFC107)
-
-**Backend & data**
-
-![Laravel](https://img.shields.io/badge/Laravel-0B0F14?style=for-the-badge&logo=laravel&logoColor=FFC107) ![PHP](https://img.shields.io/badge/PHP-0B0F14?style=for-the-badge&logo=php&logoColor=FFC107) ![Django](https://img.shields.io/badge/Django-0B0F14?style=for-the-badge&logo=django&logoColor=FFC107) ![Python](https://img.shields.io/badge/Python-0B0F14?style=for-the-badge&logo=python&logoColor=FFC107) ![Node](https://img.shields.io/badge/Node.js-0B0F14?style=for-the-badge&logo=nodedotjs&logoColor=FFC107) ![MySQL](https://img.shields.io/badge/MySQL-0B0F14?style=for-the-badge&logo=mysql&logoColor=FFC107) ![MariaDB](https://img.shields.io/badge/MariaDB-0B0F14?style=for-the-badge&logo=mariadb&logoColor=FFC107)
-
-**Infrastructure & other tools**
-
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0B0F14?style=for-the-badge&logo=cloudflare&logoColor=FFC107) ![Linux](https://img.shields.io/badge/Linux-0B0F14?style=for-the-badge&logo=linux&logoColor=FFC107) ![Docker](https://img.shields.io/badge/Docker-0B0F14?style=for-the-badge&logo=docker&logoColor=FFC107) ![Nginx](https://img.shields.io/badge/Nginx-0B0F14?style=for-the-badge&logo=nginx&logoColor=FFC107) ![Git](https://img.shields.io/badge/Git-0B0F14?style=for-the-badge&logo=git&logoColor=FFC107) ![Flutter](https://img.shields.io/badge/Flutter-0B0F14?style=for-the-badge&logo=flutter&logoColor=FFC107)
-
-</details>
-
----
-
-## LIVE GITHUB ACTIVITY
-
-<div align="center">
-
-<img alt="Live GitHub profile statistics" width="49%" src="https://github-readme-stats.vercel.app/api?username=embakaitech&show_icons=true&hide_border=false&border_color=333333&theme=dark&title_color=FFC107&icon_color=FFC107&text_color=F4F6F8&bg_color=0B0F14&cache_seconds=21600" />
-<img alt="Top languages across public repositories" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=embakaitech&layout=compact&langs_count=8&hide_border=false&border_color=333333&theme=dark&title_color=FFC107&text_color=F4F6F8&bg_color=0B0F14&cache_seconds=21600" />
-
-<img alt="Contribution streak statistics" width="72%" src="https://streak-stats.demolab.com?user=embakaitech&theme=dark&hide_border=false&border=333333&background=0B0F14&ring=FFC107&fire=FFC107&currStreakLabel=FFC107&sideLabels=F4F6F8&dates=B9C2CD" />
-
-</div>
-
-<details>
-<summary><b>View the full contribution graph</b></summary>
-
-<div align="center">
-<img alt="Live activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=embakaitech&bg_color=0B0F14&color=F4F6F8&line=FFC107&point=FFC107&area=true&area_color=FFC107&hide_border=false&custom_title=Public%20GitHub%20Activity" />
-</div>
-
-</details>
-
-<sub>Live cards are produced by external services and reflect visible GitHub data. They can be delayed or unavailable and do not measure private client work.</sub>
-
----
-
-## LET'S BUILD SOMETHING
-
-<a href="https://www.embakaitech.com"><img src="./assets/readme/contact.svg" alt="Have a project in mind? Let's build something useful, fast and dependable. Visit embakaitech.com." width="100%" /></a>
-
-<div align="center">
-
-<a href="https://www.embakaitech.com"><img alt="Explore our services" src="https://img.shields.io/badge/EXPLORE_SERVICES-0B0F14?style=for-the-badge&logo=googlechrome&logoColor=FFC107&labelColor=FFC107" /></a>
-<a href="https://www.embakaitech.com/whatsapp"><img alt="Discuss your project via WhatsApp" src="https://img.shields.io/badge/WHATSAPP_US-0B0F14?style=for-the-badge&logo=whatsapp&logoColor=FFC107&labelColor=FFC107" /></a>
-
+<summary><b>🌐 Websites & e-commerce</b> — click to expand</summary>
 <br />
 
-<a href="https://facebook.com/embakaitech"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-0B0F14?style=flat-square&logo=facebook&logoColor=FFC107" /></a>
-<a href="https://instagram.com/embakaitech"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-0B0F14?style=flat-square&logo=instagram&logoColor=FFC107" /></a>
-<a href="https://www.linkedin.com/company/embakaitech"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B0F14?style=flat-square&logo=linkedin&logoColor=FFC107" /></a>
-<a href="https://youtube.com/@embakaitechsolutions"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-0B0F14?style=flat-square&logo=youtube&logoColor=FFC107" /></a>
+We build responsive websites, customer-facing portals, online shops and checkout experiences tailored to project needs.
 
-<sub>100% PNG owned · Port Moresby, Papua New Guinea</sub>
+**Common focus areas:** performance, accessible interfaces, content management, secure checkout and search visibility.
+
+[Explore our website](https://www.embakaitech.com)
+
+</details>
+
+<details>
+<summary><b>⚙️ Business systems & APIs</b> — click to expand</summary>
+<br />
+
+Custom dashboards, authentication flows, internal workflows, customer management and third-party integrations—designed for real operational requirements.
+
+[Explore our repositories](https://github.com/embakaitech?tab=repositories)
+
+</details>
+
+<details>
+<summary><b>☁️ Hosting, DevOps & cybersecurity</b> — click to expand</summary>
+<br />
+
+Deployment, DNS configuration, server administration, business email, SSL/TLS, WAF controls, monitoring and backup strategies.
+
+**Security note:** our public GitHub profile does not expose production infrastructure configurations or private client code.
+
+</details>
+
+<details>
+<summary><b>🤖 AI, automation & mobile development</b> — click to expand</summary>
+<br />
+
+Mobile-friendly experiences, cross-platform apps, API-driven automation and practical AI-assisted workflows.
+
+</details>
+
+---
+
+## 🛠️ Technologies & tools
+
+<!-- A focused selection, not a claim that every technology appears in a public repository. -->
+
+**Frontend & UI**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+
+**Backend, apps & data**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+
+**Infrastructure & workflow**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+<details>
+<summary><b>🎨 Design & creative toolkit</b></summary>
+<br />
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
+
+</details>
+
+---
+
+## 📊 Live GitHub insights
+
+<div align="center">
+
+<img width="49%" alt="GitHub profile statistics" src="https://github-readme-stats.vercel.app/api?username=embakaitech&show_icons=true&hide_border=true&theme=github_dark&title_color=FFC107&icon_color=FFC107&text_color=C9D1D9&bg_color=0D1117&cache_seconds=21600" />
+<img width="49%" alt="Top public-repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=embakaitech&layout=compact&langs_count=8&hide_border=true&theme=github_dark&title_color=FFC107&text_color=C9D1D9&bg_color=0D1117&cache_seconds=21600" />
+
+<img width="75%" alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=embakaitech&theme=github-dark-blue&hide_border=true&ring=FFC107&fire=FFC107&currStreakLabel=FFC107&sideLabels=FFC107" />
 
 </div>
 
-<!-- Note: GitHub sets the actual page background based on the viewer's theme.
-     Dark SVG panels ensure white/yellow text on charcoal across GitHub themes. -->
+<details>
+<summary><b>📈 View full GitHub activity graph</b></summary>
+<br />
+
+<div align="center">
+<img width="100%" alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=embakaitech&theme=github-compact&bg_color=0D1117&color=FFC107&line=FFC107&point=FFFFFF&hide_border=true" />
+</div>
+
+</details>
+
+<sub>Statistics are generated by third-party services from visible GitHub data. They may be cached, delayed, temporarily unavailable, or exclude private work.</sub>
+
+---
+
+## 🚀 Work with us
+
+**Need a custom website, business application, e-commerce solution or technical support?** Explore our services and tell us what you need.
+
+<div align="center">
+
+<a href="https://www.embakaitech.com"><img alt="View website" src="https://img.shields.io/badge/Explore_Our_Services-FFC107?style=for-the-badge&logo=googlechrome&logoColor=0D1117" /></a>
+<a href="https://www.embakaitech.com/whatsapp"><img alt="WhatsApp enquiry" src="https://img.shields.io/badge/Discuss_a_Project-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
+### Connect
+
+<a href="https://facebook.com/embakaitech"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+<a href="https://instagram.com/embakaitech"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/company/embakaitech"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://youtube.com/@embakaitechsolutions"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+
+<br /><br />
+
+<img width="100%" alt="Gold and black wave footer" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FFC107,100:0D1117" />
+
+<sub>Made in Papua New Guinea 🇵🇬 · © Embakai Tech Solutions</sub>
+
+</div>
